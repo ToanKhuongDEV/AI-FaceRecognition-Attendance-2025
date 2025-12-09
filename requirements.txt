@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+numpy
+opencv-python
+imutils
+face_recognition
+python-multipart
+SQLAlchemy
+pymysql
