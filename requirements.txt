@@ -8,3 +8,4 @@ face_recognition
 python-multipart
 SQLAlchemy
 pymysql
+cryptography
